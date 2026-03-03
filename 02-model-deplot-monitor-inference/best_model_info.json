@@ -1,0 +1,42 @@
+{
+  "model_name": "RandomForest",
+  "run_id": "378d7a33367846a4b6a06118437d89f5",
+  "r2_score": 0.9982210160492706,
+  "all_results": [
+    {
+      "model_name": "RandomForest",
+      "r2_score": 0.9982210160492706,
+      "run_id": "378d7a33367846a4b6a06118437d89f5"
+    },
+    {
+      "model_name": "GradientBoosting",
+      "r2_score": 0.9967670534446199,
+      "run_id": "ba8bf81e3bb54dd6b01382e48360c91f"
+    },
+    {
+      "model_name": "SVR",
+      "r2_score": 0.9926728363573758,
+      "run_id": "8073200b54cf42d890f6bf879d27f682"
+    },
+    {
+      "model_name": "LinearRegression",
+      "r2_score": 0.9672937151257295,
+      "run_id": "0cae87ce068a4627acfe95f054b7014b"
+    },
+    {
+      "model_name": "Ridge",
+      "r2_score": 0.967292173719238,
+      "run_id": "256d8b19e1f546e5acf75a570b6a2191"
+    },
+    {
+      "model_name": "Lasso",
+      "r2_score": 0.9608762195230437,
+      "run_id": "754b0916b0934d2a87fa58fd832be9da"
+    },
+    {
+      "model_name": "DummyRegressor",
+      "r2_score": -0.0012218149445957227,
+      "run_id": "09f0155034724c32a15f174e2ae155a5"
+    }
+  ]
+}

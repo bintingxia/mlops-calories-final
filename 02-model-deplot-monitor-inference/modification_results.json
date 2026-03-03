@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-03-03T18:13:46.228185",
+  "modifications_applied": [
+    "Feature Body_Temp: systematic shift +0.01",
+    "Feature Gender: systematic shift +0.00"
+  ],
+  "comparison_results": {
+    "original_count": 25,
+    "modified_count": 25,
+    "original_mean": 82.31119999999999,
+    "original_mean": 82.31119999999999,
+    "modified_mean": 96.49199999999999,
+    "original_std": 74.37816611452585,
+    "modified_std": 68.63174746427487,
+    "mean_difference": 14.180800000000005,
+    "mean_difference_percent": 17.22827513145235
+  },
+  "original_predictions_sample": [
+    33.82,
+    247.96,
+    174.79,
+    154.3,
+    54.55,
+    142.94,
+    10.85,
+    174.51,
+    14.78,
+    121.2
+  ],
+  "modified_predictions_sample": [
+    122.81,
+    165.65,
+    185.39,
+    171.84,
+    110.55,
+    206.53,
+    191.46,
+    8.4,
+    12.73,
+    16.9
+  ]
+}
